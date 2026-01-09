@@ -1,0 +1,7 @@
+{
+  "name": "J.A.R.V.I.S. Interface",
+  "description": "Just A Rather Very Intelligent System. A futuristic conversational AI assistant powered by Gemini 2.5 and 3.0 models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
